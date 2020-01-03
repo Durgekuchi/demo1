@@ -1,0 +1,11 @@
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\bin\Debug\netcoreapp3.1\Floatting.exe
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\bin\Debug\netcoreapp3.1\Floatting.deps.json
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\bin\Debug\netcoreapp3.1\Floatting.runtimeconfig.json
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\bin\Debug\netcoreapp3.1\Floatting.runtimeconfig.dev.json
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\bin\Debug\netcoreapp3.1\Floatting.dll
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\bin\Debug\netcoreapp3.1\Floatting.pdb
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\obj\Debug\netcoreapp3.1\Floatting.csprojAssemblyReference.cache
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\obj\Debug\netcoreapp3.1\Floatting.AssemblyInfoInputs.cache
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\obj\Debug\netcoreapp3.1\Floatting.AssemblyInfo.cs
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\obj\Debug\netcoreapp3.1\Floatting.dll
+c:\Users\durgesh.kuchi\Desktop\Durgesh.Kuchi\Floatting\Floatting\obj\Debug\netcoreapp3.1\Floatting.pdb
